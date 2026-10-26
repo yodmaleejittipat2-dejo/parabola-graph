@@ -1,0 +1,19 @@
+{
+  "name": "Parabola Graph",
+  "short_name": "Parabola",
+  "description": "พิมพ์สมการกำลังสอง แล้วดูกราฟพาราโบลา จุดยอด จุดสูงสุด/ต่ำสุด และตารางค่า x, y — สร้างโดย Jittipat",
+  "lang": "th",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#eaf0ef",
+  "theme_color": "#1f4fd1",
+  "categories": ["education", "utilities"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
